@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WTH-ContosoMasks'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3208A78CD6A44816AAEE1AC21A0ADBA9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1E1A75221C5488E954D5B9480C3EF78 }}
           package: .
